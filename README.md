@@ -1,8 +1,12 @@
+# Nome do Projeto: "Animal Rescue"
+
+
 # Alunos:
 Lucas Noel<br>
 Lucas Carvalho<br>
 Denis Rocha<br>
 Isabella Correira
+
 
 # Fases
 ## Fase 1 e Fase 2
