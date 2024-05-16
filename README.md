@@ -2,10 +2,10 @@
 
 
 # Alunos:
-Lucas Noel<br>
-Lucas Carvalho<br>
 Denis Rocha<br>
-Isabella Correira
+Gabriel Toledo<br>
+Isabella Correia<br>
+Lucas Noel
 
 
 # Wiki #
