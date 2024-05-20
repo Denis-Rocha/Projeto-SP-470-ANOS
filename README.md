@@ -1,4 +1,4 @@
-# Nome do Projeto: "Animal Rescue"
+# Animal Rescue
 
 
 # Alunos:
