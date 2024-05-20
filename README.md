@@ -2,10 +2,10 @@
 
 
 # Alunos:
-Denis Rocha<br>
-Gabriel Toledo<br>
-Isabella Correia<br>
-Lucas Noel<br>
+Denis Rocha Lemos<br>
+Gabriel Toledo Duarte<br>
+Isabella Correia Duarte<br>
+Lucas Noel Batista<br>
 
 # Cenários
 ![mercadao](https://github.com/Denis-Rocha/Projeto-SP-470-ANOS/assets/127851983/6e481b01-2a8f-4de7-974e-08ca8872623f)
