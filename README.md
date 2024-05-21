@@ -17,6 +17,7 @@ Lucas Noel Batista<br>
 **Comerciante ilegal de animais (Gabigol)** <br>
 
 **Corpo Seco** <br>
+![image](https://github.com/Denis-Rocha/Projeto-SP-470-ANOS/assets/127851983/531f4461-6cf5-4aa9-9fc3-b2b3ae111987) <br>
 
 **Coruja** <br>
 
