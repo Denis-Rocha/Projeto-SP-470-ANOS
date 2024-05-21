@@ -14,27 +14,27 @@ Lucas Noel Batista<br>
 ![image](https://github.com/Denis-Rocha/Projeto-SP-470-ANOS/assets/127851983/783b62c2-c47a-416a-9380-c33928c46398) <br>
 
 # Personagens
-**Comerciante ilegal de animais (Gabigol)**
+**Comerciante ilegal de animais (Gabigol)** <br>
 
-Corpo Seco
+**Corpo Seco** <br>
 
-Coruja
+**Coruja** <br>
 
-Beija Flor
+**Beija Flor** <br>
 
-Galinha
+**Galinha** <br>
 
-Perereca Trepadora
+**Perereca Trepadora** <br>
 
-Sapo
+**Sapo** <br>
 
-Onça parda
+**Onça parda** <br>
 
-Rei Leão
+**Rei Leão** <br>
 
-Policial
+**Policial** <br>
 
-Vendedor de galinhas
+**Vendedor de galinhas** <br>
 
 
 
