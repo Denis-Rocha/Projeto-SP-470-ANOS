@@ -14,26 +14,33 @@ Lucas Noel Batista<br>
 ![image](https://github.com/Denis-Rocha/Projeto-SP-470-ANOS/assets/127851983/783b62c2-c47a-416a-9380-c33928c46398) <br>
 
 # Personagens
-**Comerciante ilegal de animais (Gabigol)** <br>
+**Ex Comerciante ilegal de animais (Gabigol)** <br>
+![comerciante](https://github.com/Denis-Rocha/Projeto-SP-470-ANOS/assets/127851983/07e29f24-b1ab-42b5-a64d-697e2821de57) <br>
 
 **Corpo Seco** <br>
 ![image](https://github.com/Denis-Rocha/Projeto-SP-470-ANOS/assets/127851983/531f4461-6cf5-4aa9-9fc3-b2b3ae111987) <br>
 
 **Coruja** <br>
+![image](https://github.com/Denis-Rocha/Projeto-SP-470-ANOS/assets/127851983/44f597f9-eb48-42bd-a206-a2b198b4f1af) <br>
 
 **Beija Flor** <br>
+![image](https://github.com/Denis-Rocha/Projeto-SP-470-ANOS/assets/127851983/f483b903-1605-4537-8cc0-45c6171a38f6) <br>
 
 **Galinha** <br>
+![image](https://github.com/Denis-Rocha/Projeto-SP-470-ANOS/assets/127851983/f7fd4d24-0178-45ae-b5ac-cfcb7f58c5d0) <br>
 
 **Perereca Trepadora** <br>
+![image](https://github.com/Denis-Rocha/Projeto-SP-470-ANOS/assets/127851983/b1d0984c-3563-4f16-a482-d7b08f151efe) <br>
 
 **Sapo** <br>
 
 **Onça parda** <br>
+![image](https://github.com/Denis-Rocha/Projeto-SP-470-ANOS/assets/127851983/44bdcb9c-0f81-4d3c-982d-8fad2a7dce43) <br>
 
 **Rei Leão** <br>
 
 **Policial** <br>
+![image](https://github.com/Denis-Rocha/Projeto-SP-470-ANOS/assets/127851983/5841b116-77ad-448a-992c-b03885ca2da4) <br>
 
 **Vendedor de galinhas** <br>
 
