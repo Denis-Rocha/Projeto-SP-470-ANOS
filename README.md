@@ -10,7 +10,7 @@ Lucas Noel Batista<br>
 
 # Wiki #
 - <a href="https://github.com/Denis-Rocha/Projeto-SP-470-ANOS/wiki/Concept-art"> Concept art<a>
-- <a href="">Cores dos Personagens e seus significados<a>
+- <a href="https://github.com/Denis-Rocha/Projeto-SP-470-ANOS/wiki/Visual">Cores dos Personagens e seus significados<a>
 - <a href="https://github.com/Denis-Rocha/Projeto-SP-470-ANOS/wiki/Enredo"> Enredo<a>
 - <a href="https://github.com/Denis-Rocha/Projeto-SP-470-ANOS/wiki/Fases">Fases<a>
 - <a href="https://github.com/Denis-Rocha/Projeto-SP-470-ANOS/wiki/Personagens">Personagens<a>
