@@ -14,7 +14,27 @@ Lucas Noel Batista<br>
 ![image](https://github.com/Denis-Rocha/Projeto-SP-470-ANOS/assets/127851983/783b62c2-c47a-416a-9380-c33928c46398) <br>
 
 # Personagens
+*Comerciante ilegal de animais (Gabigol)*
 
+Corpo Seco
+
+Coruja
+
+Beija Flor
+
+Galinha
+
+Perereca Trepadora
+
+Sapo
+
+Onça parda
+
+Rei Leão
+
+Policial
+
+Vendedor de galinhas
 
 
 
